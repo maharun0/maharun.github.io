@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  /* padding: 0; */
+  background-color: black;
+  max-lines: 1;
+}
+
+.intro {
+  /* display: flex;
+    justify-content: ; */
+
+  margin-top: 250;
+  margin-left: 100;
+  margin-right: 100;
+  text-align: center;
+  background-color: red;
+  max-lines: 1;
+}
+
+.name {
+  color: white;
+  font-size: 70;
+  font-weight: bold;
+}
+
+.role {
+  color: white;
+  font-size: 50;
+  font-weight: bold;
+}
